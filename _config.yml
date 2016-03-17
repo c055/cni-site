@@ -1,15 +1,14 @@
-name : Foundation5/github pages/Jykill starter
-brand : My Site
-description : This is the description of my site
-keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-6-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
-analytics : UA-8418273-8
+name : CNI- International
+brand : Cryptonomex
+description : test
+keyword :
+url :
+email : contact@cryptonomex.com
+twitter : cryptonomex
+github : cryptonomex
+author : cryptonomex
+analytics :
 year : 2016
 markdown : kramdown
 exclude :
   - node_modules
-

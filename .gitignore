@@ -1,7 +1,5 @@
-.sass-cache
-*.DS_Store
-_site
-Gemfile.lock
-config.codekit
+.DS_Store
 node_modules
+npm-debug.log
+_site
 .idea

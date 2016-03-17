@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="136px" height="146px" viewBox="0 0 136 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>CNXLogo-colored</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="18.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.145258718 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.144466146 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="0%" y1="43.6567922%" x2="76.4011466%" y2="73.7251355%" id="linearGradient-3">
+            <stop stop-color="#B86204" offset="0%"></stop>
+            <stop stop-color="#F59C3B" offset="43.0803571%"></stop>
+            <stop stop-color="#F9A03E" offset="53.4437947%"></stop>
+            <stop stop-color="#B25D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="84.9968468%" y2="125.965848%" id="linearGradient-4">
+            <stop stop-color="#F9A03E" offset="0%"></stop>
+            <stop stop-color="#B25D00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="84.9968468%" y2="125.965848%" id="linearGradient-5">
+            <stop stop-color="#145C9E" offset="0%"></stop>
+            <stop stop-color="#154A7A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="new-site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" filter="url(#filter-1)">
+        <g id="CNX/site_landing-2" transform="translate(-652.000000, -135.000000)">
+            <g id="Group" transform="translate(0.000000, 33.000000)">
+                <g id="CNXLogo-colored" transform="translate(682.000000, 132.000000)">
+                    <g id="Group" filter="url(#filter-2)">
+                        <path d="M51.3430122,50.1098262 L60.3085402,35.4920285 L64.3932028,43.1489702 L55.5079667,57.0706823 L51.3430122,50.1098262 Z" id="Path-10-Copy" fill="url(#linearGradient-3)"></path>
+                        <path d="M12.5503961,70.8531772 L21.1579686,56.9314652 L25.6005867,63.8923212 L16.7153505,77.8140333 L12.5503961,70.8531772 Z" id="Path-10" fill="url(#linearGradient-4)"></path>
+                        <path d="M18.4860326,-1.37972078 L33.4798687,6.08870813 L33.2055212,72.6388035 L18.4860326,65.2923347 L18.4860326,-1.37972078 Z" id="Rectangle-6" fill="url(#linearGradient-5)" transform="translate(25.982951, 35.629541) rotate(32.000000) translate(-25.982951, -35.629541) "></path>
+                        <path d="M52.3024297,43.9752006 L67.2962657,51.7683339 L67.2962657,75.3726147 L52.3024297,85.0221821 L52.3024297,43.9752006 Z" id="Rectangle-6-Copy" fill="url(#linearGradient-4)" transform="translate(59.799348, 64.498691) rotate(32.000000) translate(-59.799348, -64.498691) "></path>
+                        <path d="M33.1687245,20.0574889 L48.1625605,27.8506222 L48.1625605,77.4124446 L33.1687245,87.062012 L33.1687245,20.0574889 Z" id="Rectangle-6-Copy-2" fill="url(#linearGradient-5)" transform="translate(40.665642, 53.559750) rotate(32.000000) translate(-40.665642, -53.559750) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
