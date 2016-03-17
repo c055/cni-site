@@ -12,3 +12,4 @@ year : 2016
 markdown : kramdown
 exclude :
   - node_modules
+
